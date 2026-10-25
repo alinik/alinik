@@ -9,6 +9,6 @@ Supporting a new blockchain is an engineering task. Keeping user funds safe on i
 - **On AI:** keep agents in layers where a human can review the output, and out of the transaction path.
 - **Stack:** Python, C++, blockchain integration, Linux, Elasticsearch.
 
-If you build a crypto or fintech product and want to compare notes on chain integration, custody or security, send me a DM.
+If you build a crypto or fintech product and want to compare notes on chain integration, custody or security, DM me on Telegram: [@nikneshan](https://t.me/nikneshan).
 
-[LinkedIn](https://www.linkedin.com/in/alinik/) · [X](https://x.com/alinik) · [Stack Overflow](https://stackoverflow.com/users/ali-nikneshan)
+[Telegram](https://t.me/nikneshan) · [LinkedIn](https://www.linkedin.com/in/alinik/) · [X](https://x.com/alinik) · [Stack Overflow](https://stackoverflow.com/users/ali-nikneshan)
