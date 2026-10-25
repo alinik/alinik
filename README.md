@@ -6,7 +6,7 @@ Supporting a new blockchain is an engineering task. Keeping user funds safe on i
 
 - **Now:** engineering and security for multi-chain exchange infrastructure at BITMAX (CTO since 2024; blockchain advisor and director before that, from 2021).
 - **Before:** six years as Software Development Manager at Ertebatat Baregheh Pardis. Earlier, telecom systems at MTN scale, including a 400 TB CDR pipeline and a SIEM rollout.
-- **On AI:** keep agents in layers where a human can review the output, and out of the transaction path.
+- **On AI:** keep agents in layers where a human can review the output, and out of the transaction path. Lessons from running an AI code reviewer in production: [ai-code-review-playbook](https://github.com/alinik/ai-code-review-playbook).
 - **Stack:** Python, C++, blockchain integration, Linux, Elasticsearch.
 
 Most of my professional work lives in private repositories, so the public repos here are older side projects, not what I do today.
