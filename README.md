@@ -11,4 +11,4 @@ Supporting a new blockchain is an engineering task. Keeping user funds safe on i
 
 If you build a crypto or fintech product and want to compare notes on chain integration, custody or security, DM me on Telegram: [@nikneshan](https://t.me/nikneshan).
 
-[Telegram](https://t.me/nikneshan) · [LinkedIn](https://www.linkedin.com/in/alinik/) · [X](https://x.com/alinik) · [Stack Overflow](https://stackoverflow.com/users/ali-nikneshan)
+[Telegram](https://t.me/nikneshan) · [LinkedIn](https://www.linkedin.com/in/ali-nikneshan/) · [X](https://x.com/alinik) · [Stack Overflow](https://stackoverflow.com/users/ali-nikneshan)
